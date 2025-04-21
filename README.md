@@ -1,1 +1,1 @@
-# MlOps-exam
+This is MLOps practical.
